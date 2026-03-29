@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full-Stack Java Developer<br>⚙️ DevOps | CI/CD | Cloud | Automation<br>🐍 AI/ML with Python<br>🔭 Building ClaudeEye — AI-powered platform<br>🌱 Exploring Agentic AI & intelligent systems
+💻 Full-Stack Java Developer<br>⚙️ DevOps | CI/CD | Cloud | Automation<br>🐍 AI/ML with Python<br>br>🌱 Exploring Agentic AI & intelligent systems
 
 
 ## 🌐 Socials:
