@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full-Stack Java Developer<br>⚙️ DevOps | CI/CD | Cloud | Automation<br>🐍 AI/ML with Python<br>🌱 Exploring Agentic AI & intelligent systems
+💻 4+ Exp Full-Stack Java Developer<br>⚙️ DevOps | CI/CD | Cloud | Automation<br>🐍 AI/ML with Python<br>🌱 Exploring Agentic AI & intelligent systems
 
 
 ## 🌐 Socials:
